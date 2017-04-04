@@ -1,3 +1,3 @@
 # hello-world
 Hello World Repository
-I am currently an Architect (of buildings, not software) and computational designer with a focus on technology and its application to the design process, including visual programming for computational design and digital fabrication. Some projects I have done in that area include: robotic assisted timber fabrication prototyping, computational art using Java-based language in the Processing PDE, and Grasshopper/Rhino-based rapid prototyping for complex radial ovoid roof structures. I love working with complex systems. After completing the Data Science Bootcamp on March 18 with Robby Grodin, and I'm independently experimenting with datasets using Python. I am very interested in delving deeper into this exciting field with the ultimate goal of a career shift.
+
